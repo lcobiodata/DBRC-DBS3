@@ -1,0 +1,250 @@
+Cluster 1
+"MSA
+Column",Feature,Frequency
+67,"Polar (Cys, Ser, Asn, Gln or Tyr)",0.92
+68,Hydrophilic (Pro or Gln),0.93
+69,"Aliphatic, Non-polar, Very hydrophobic (Leu, Val or Ile)",1.00
+72,"Basic (Lys, His or Arg)",0.98
+73,"Aliphatic, Non-polar (Ile, Val, Ala or Leu)",1.00
+74,"Non-polar, Very hydrophobic (Leu, Val, Ile or Met)",1.00
+75,"Hydrophilic, Similar, Small (Asp or Asn)",1.00
+77,"Non-polar (Val, Gly, Ala, Leu or Met)",0.93
+79,Gly,1.00
+81,"Non-polar (Pro, Leu or Ala)",1.00
+82,"Aliphatic, Non-polar, Tiny (Ala or Gly)",1.00
+85,"Non-polar, Very hydrophobic (Val, Met, Leu or Ile)",1.00
+87,"Non-polar (Leu, Val, Ile, Phe, Met, Pro or Ala)",1.00
+89,"Non-polar (Val, Leu, Pro, Ile or Met)",1.00
+91,"Hydrophilic (Arg, Lys or Gln)",0.98
+104,Trp,0.99
+107,"Non-polar, Very hydrophobic (Val, Leu, Phe, Ile or Met)",1.00
+110,Tiny (Gly or Ser),0.90
+112,Thr,0.96
+116,Gly,1.00
+121,"Non-polar, Very hydrophobic (Leu, Phe or Ile)",1.00
+127,"Non-polar (Phe, Ala, Leu, Val, Met or Ile)",1.00
+130,"Aliphatic, Non-polar, Tiny (Gly or Ala)",1.00
+132,Tyr,0.99
+133,"Hydrophilic (Arg, Lys or Gln)",0.99
+134,"Non-polar (Val, Ile, Leu, Met, Ala or Phe)",1.00
+136,"Non-polar, Very hydrophobic (Phe, Ile or Leu)",1.00
+137,Negatively charged (Asp or Glu),0.94
+138,"Polar, With hydroxyl (Thr or Ser)",1.00
+141,Aromatic (Tyr or Phe),1.00
+142,"Aromatic, Non-polar, Very hydrophobic (Trp or Phe)",1.00
+146,Tiny (Gly or Ser),0.93
+150,"Non-polar, Very hydrophobic (Phe or Leu)",1.00
+154,"Aliphatic, Non-polar (Ala, Val or Ile)",0.97
+156,"Non-polar (Val, Ile, Ala or Met)",0.99
+221,"Non-polar (Val, Gly, Leu, Ile, Ala or Met)",0.95
+
+Cluster 2
+"MSA
+Column",Feature,Frequency
+159,"Aliphatic, Non-polar (Val, Ile, Leu or Ala)",0.83
+168,"Hydrophilic (Lys, Arg, Gln, Asn or Asp)",0.78
+173,"Non-polar (Pro, Ala or Val)",0.82
+175,"Non-polar, Very hydrophobic (Leu, Val, Phe, Trp or Ile)",0.84
+179,"Aromatic (Phe, Tyr or Trp)",0.85
+180,Ser,0.82
+181,"Polar, With hydroxyl (Tyr or Ser)",0.79
+
+Cluster 3
+"MSA
+Column",Feature,Frequency
+172,"Non-polar, Very hydrophobic (Val, Ile, Leu or Met)",0.76
+174,"Non-polar (Leu, Ala, Val, Phe or Met)",0.74
+175,Leu,0.71
+176,"Non-polar, Very hydrophobic (Leu, Val, Ile or Met)",0.76
+177,"Polar, With hydroxyl (Ser or Thr)",0.76
+178,Hydrophilic (Arg or Pro),0.76
+181,Aromatic (Tyr or Phe),0.75
+182,"Polar, With hydroxyl (Thr or Ser)",0.74
+183,Small (Thr or Asp),0.74
+
+Cluster 4
+"MSA
+Column",Feature,Frequency
+34,"Non-polar (Val, Ala, Ile, Phe or Leu)",0.61
+41,Tiny (Ala or Ser),0.59
+66,"Basic (His, Lys or Arg)",0.60
+67,Small (Cys or Asn),0.63
+71,"Aliphatic, Non-polar, Very hydrophobic (Val or Ile)",0.66
+72,"Hydrophilic (Lys, Arg or Gln)",0.67
+76,Tiny (Ala or Ser),0.67
+77,"Very hydrophobic (Val, Leu or Met)",0.69
+92,"Hydrophilic (Arg, Lys or Gln)",0.58
+100,Negatively charged (Asp or Glu),0.59
+117,"Median (Glu, Val, His or Gln)",0.68
+118,"Non-polar (Val, Ile, Leu, Phe, Ala or Pro)",0.65
+119,Median (His or Gln),0.64
+124,Negatively charged (Asp or Glu),0.55
+151,His,0.65
+152,"Median (Glu, His or Gln)",0.63
+154,Ala,0.58
+
+Cluster 5
+"MSA
+Column",Feature,Frequency
+145,"Big (Leu, Met or Arg)",0.64
+161,"Polar (Thr, Ser, Gln or Asn)",0.61
+163,"Polar (Thr, Asn, Ser or Gln)",0.62
+164,"Hydrophilic (Asp, Asn, Lys or Pro)",0.63
+
+Cluster 6
+"MSA
+Column",Feature,Frequency
+219,Small (Thr or Pro),0.54
+220,"Aliphatic, Non-polar, Tiny (Ala or Gly)",0.55
+221,"Very hydrophobic (Val, Leu, Ile or Met)",0.56
+222,"Aliphatic, Non-polar, Very hydrophobic (Val or Ile)",0.58
+
+Cluster 7
+"MSA
+Column",Feature,Frequency
+173,Pro,0.41
+219,Aromatic (Tyr or Phe),0.39
+220,"Hydrophilic (Arg, Gln or Lys)",0.40
+221,"Tiny (Gly, Ala or Ser)",0.40
+222,Polar (Ser or Asn),0.39
+
+Cluster 8
+"MSA
+Column",Feature,Frequency
+67,Tiny (Ser or Gly),0.30
+71,Thr,0.34
+72,Median (His or Gln),0.32
+76,Thr,0.28
+95,"Big (Met, Leu or Lys)",0.28
+115,Negatively charged (Asp or Glu),0.35
+117,Basic (Arg or His),0.31
+118,"Polar (Cys, Ser or Tyr)",0.35
+149,"Polar (Ser, Cys or Thr)",0.37
+151,Tyr,0.35
+152,Small (Pro or Asp),0.37
+162,Ile,0.31
+171,Basic (His or Lys),0.35
+174,Leu,0.37
+219,Tyr,0.32
+
+Cluster 9
+"MSA
+Column",Feature,Frequency
+42,Ala,0.21
+45,Pro,0.21
+145,"Median (Gln, Glu or Val)",0.21
+171,Gly,0.20
+187,Median (His or Gln),0.21
+188,Polar (Tyr or Gln),0.21
+189,"Polar, With hydroxyl (Thr or Ser)",0.21
+190,"Aliphatic, Non-polar (Leu, Ile or Gly)",0.21
+191,"Aliphatic, Non-polar (Ala or Val)",0.21
+192,"Non-polar, Very hydrophobic (Leu, Met or Val)",0.21
+193,Leu,0.21
+194,"Big, Non-polar, Very hydrophobic (Leu or Met)",0.21
+195,Ser,0.21
+196,Hydrophilic (Pro or Lys),0.21
+198,Ser,0.21
+240,"Hydrophilic (Lys, Asn or Asp)",0.18
+
+Cluster 10
+"MSA
+Column",Feature,Frequency
+161,"Basic (Lys, His or Arg)",0.20
+223,"Big (Lys, Arg or Met)",0.20
+230,"Aliphatic, Non-polar, Very hydrophobic (Leu or Val)",0.20
+232,"Basic, Big, Hydrophilic, Positively charged (Lys or Arg)",0.17
+234,Thr,0.17
+236,Thr,0.17
+242,"Small (Pro, Thr or Asn)",0.19
+268,With sulfur (Met or Cys),0.17
+
+Cluster 11
+"MSA
+Column",Feature,Frequency
+78,With hydroxyl (Thr or Ser),0.14
+80,Leu,0.14
+103,Amide (Gln or Asn),0.15
+128,"Basic, Positively charged (Lys or Arg)",0.13
+
+Cluster 12
+"MSA
+Column",Feature,Frequency
+239,"Non-polar (Met, Val or Gly)",0.13
+240,Lys,0.13
+268,"Small (Asp, Asn or Cys)",0.13
+
+Cluster 13
+"MSA
+Column",Feature,Frequency
+26,"Hydrophilic (Lys, Gln or Arg)",0.12
+32,His,0.14
+35,"Non-polar, Very hydrophobic (Leu, Ile, Val or Phe)",0.15
+
+Cluster 14
+"MSA
+Column",Feature,Frequency
+157,"Non-polar, Very hydrophobic (Val or Met)",0.14
+161,"Median (Glu, Gln or His)",0.11
+178,His,0.10
+186,Basic (Arg or His),0.14
+187,His,0.14
+188,Tyr,0.14
+189,Thr,0.14
+190,"Big, Very hydrophobic (Leu or Ile)",0.14
+191,Ala,0.14
+194,Leu,0.14
+196,Pro,0.14
+197,Aromatic (Phe or Tyr),0.14
+199,Aromatic (Tyr or Phe),0.14
+217,Thr,0.11
+218,Thr,0.14
+
+Cluster 15
+"MSA
+Column",Feature,Frequency
+70,"Aliphatic (Ala, Val or Leu)",0.13
+143,Ser,0.13
+148,Ala,0.13
+153,With sulfur (Met or Cys),0.13
+266,Non-polar (Val or Pro),0.11
+267,"Polar (Gln, Asn or Thr)",0.11
+268,"Non-polar (Val, Gly or Met)",0.12
+
+Cluster 16
+"MSA
+Column",Feature,Frequency
+10,"Hydrophilic (Asp, Asn or Arg)",0.11
+18,With sulfur (Cys or Met),0.11
+27,"Tiny (Ser, Ala or Gly)",0.12
+31,Leu,0.11
+40,With hydroxyl (Ser or Thr),0.11
+42,Val,0.11
+62,Asp,0.11
+63,Basic (Arg or His),0.11
+66,Arg,0.12
+77,Leu,0.12
+88,Similar (Gln or Glu),0.12
+92,Arg,0.12
+126,His,0.10
+128,Ala,0.11
+129,Val,0.10
+155,Asn,0.12
+164,With hydroxyl (Ser or Thr),0.12
+167,Ser,0.11
+168,"Small (Thr, Asn or Asp)",0.11
+220,Gly,0.11
+228,Small (Asp or Thr),0.11
+229,His,0.11
+239,Thr,0.12
+268,Very hydrophobic (Val or Met),0.11
+
+Cluster 17
+"MSA
+Column",Feature,Frequency
+51,"Polar (Asn, Ser, Thr or Gln)",0.11
+53,Negatively charged (Glu or Asp),0.10
+65,Asp,0.10
+123,Gly,0.11
+219,"Non-polar (Ala, Gly, Pro or Phe)",0.10
+
